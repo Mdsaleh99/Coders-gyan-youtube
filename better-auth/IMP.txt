@@ -1,0 +1,13 @@
+https://www.better-auth.com/docs/installation
+https://www.better-auth.com/docs/installation#create-a-better-auth-instance
+https://www.better-auth.com/docs/adapters/mongo
+https://www.better-auth.com/docs/installation#create-client-instance
+https://www.better-auth.com/docs/authentication/email-password
+https://www.better-auth.com/docs/basic-usage#sign-up
+https://www.better-auth.com/docs/plugins/jwt
+https://www.better-auth.com/docs/plugins/oauth-provider
+https://www.better-auth.com/docs/plugins/admin
+https://www.better-auth.com/docs/authentication/google
+https://www.better-auth.com/docs/plugins/have-i-been-pwned
+https://www.better-auth.com/docs/plugins/magic-link
+https://www.better-auth.com/docs/plugins/email-otp
